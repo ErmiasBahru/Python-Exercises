@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width="100">
+    <img src="image.png" width="100">
 </p>
 
 <p align="center">200+ Exercises - Python Standard Libraries</p>
