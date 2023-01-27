@@ -2,7 +2,7 @@
 
 Using the built-in string module, create a dictionary that allows you to map indices from 0 to 25 to lowercase letters (ascii_lowercase) and assign it to the `code_map` variable:
 
-```json
+```
 {
     0: 'a',
     1: 'b',
@@ -35,7 +35,7 @@ Using the built-in string module, create a dictionary that allows you to map ind
 
 Then replace the values ​​with keys in the `code_map` dictionary and assign to the `code_map_inv` variable:
 
-```json
+```
 {
     'a': 0,
     'b': 1,
