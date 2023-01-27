@@ -7,7 +7,7 @@ Using the sys built-in module create a script that prints all arguments passed t
 ## Example
 
 ```cmd
-$ python3 solution.py arg1 arg2
+$ python3 exercise.py arg1 arg2
 
   arg1
   arg2
